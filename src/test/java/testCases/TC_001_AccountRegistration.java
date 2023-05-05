@@ -19,7 +19,7 @@ public class TC_001_AccountRegistration extends BaseClass
 		hp.clickMyaccount();
 		logger.info("Clicked on my account");
 		hp.clickRegister();
-		logger.info("Clicked on register");
+		//logger.info("Clicked on register");
 		AccountRegPage ar = new AccountRegPage(driver);
 		ar.setFirstName(randomString());
 		logger.info("Entering data on register screen");
