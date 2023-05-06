@@ -289,3 +289,27 @@
 16:13:19.242 [main] INFO  testCases.TC_003_LoginDDT - **** End of test case ****
 16:13:19.242 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT ****
 16:13:20.177 [main] INFO  testCases.TC_003_LoginDDT - **** End of test case ****
+16:24:07.611 [main] INFO  testCases.TC_001_AccountRegistration - **** Starting TC_001_AccountRegistration **** 
+16:24:07.701 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on my account
+16:24:07.996 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on register
+16:24:08.061 [main] INFO  testCases.TC_001_AccountRegistration - Entering data on register screen
+16:24:08.377 [main] INFO  testCases.TC_001_AccountRegistration - All data passed to register screen
+16:24:10.652 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on submit button
+16:24:10.670 [main] INFO  testCases.TC_001_AccountRegistration - validating expected message
+16:24:10.670 [main] INFO  testCases.TC_001_AccountRegistration - test case completed
+16:24:13.220 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest **** 
+16:24:13.256 [main] INFO  testCases.TC_002_LoginTest - **** Clicked on my account **** 
+16:24:13.458 [main] INFO  testCases.TC_002_LoginTest - **** Clicked on loginlink **** 
+16:24:13.836 [main] INFO  testCases.TC_002_LoginTest - **** Finished  TC_002_LoginTest **** 
+16:24:16.633 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT ****
+16:24:27.221 [main] INFO  testCases.TC_003_LoginDDT - **** End of test case ****
+16:24:27.221 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT ****
+16:24:37.712 [main] INFO  testCases.TC_003_LoginDDT - **** End of test case ****
+16:24:37.713 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT ****
+16:24:48.278 [main] INFO  testCases.TC_003_LoginDDT - **** End of test case ****
+16:24:48.278 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT ****
+16:24:58.766 [main] INFO  testCases.TC_003_LoginDDT - **** End of test case ****
+16:24:58.766 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT ****
+16:25:09.298 [main] INFO  testCases.TC_003_LoginDDT - **** End of test case ****
+16:25:09.298 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT ****
+16:25:10.024 [main] INFO  testCases.TC_003_LoginDDT - **** End of test case ****
