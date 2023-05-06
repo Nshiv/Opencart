@@ -226,3 +226,33 @@
 19:17:53.663 [main] INFO  testCases.TC_003_LoginDDT - **** End of test case ****
 19:17:53.663 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT ****
 19:17:54.375 [main] INFO  testCases.TC_003_LoginDDT - **** End of test case ****
+16:08:19.795 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest **** 
+16:08:19.921 [main] INFO  testCases.TC_002_LoginTest - **** Clicked on my account **** 
+16:08:20.322 [main] INFO  testCases.TC_002_LoginTest - **** Clicked on loginlink **** 
+16:08:20.908 [main] INFO  testCases.TC_002_LoginTest - **** Finished  TC_002_LoginTest **** 
+16:08:24.099 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT ****
+16:08:34.766 [main] INFO  testCases.TC_003_LoginDDT - **** End of test case ****
+16:08:34.766 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT ****
+16:08:45.294 [main] INFO  testCases.TC_003_LoginDDT - **** End of test case ****
+16:08:45.295 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT ****
+16:08:55.828 [main] INFO  testCases.TC_003_LoginDDT - **** End of test case ****
+16:08:55.828 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT ****
+16:09:06.333 [main] INFO  testCases.TC_003_LoginDDT - **** End of test case ****
+16:09:06.333 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT ****
+16:09:16.790 [main] INFO  testCases.TC_003_LoginDDT - **** End of test case ****
+16:09:16.790 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT ****
+16:09:18.006 [main] INFO  testCases.TC_003_LoginDDT - **** End of test case ****
+16:10:16.009 [main] INFO  testCases.TC_001_AccountRegistration - **** Starting TC_001_AccountRegistration **** 
+16:10:16.103 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on my account
+16:10:16.608 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on register
+16:10:16.672 [main] INFO  testCases.TC_001_AccountRegistration - Entering data on register screen
+16:10:16.903 [main] INFO  testCases.TC_001_AccountRegistration - All data passed to register screen
+16:10:17.128 [main] INFO  testCases.TC_001_AccountRegistration - Clicked on submit button
+16:10:27.171 [main] INFO  testCases.TC_001_AccountRegistration - validating expected message
+16:10:29.429 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest **** 
+16:10:29.497 [main] INFO  testCases.TC_002_LoginTest - **** Clicked on my account **** 
+16:10:29.749 [main] INFO  testCases.TC_002_LoginTest - **** Clicked on loginlink **** 
+16:10:30.227 [main] INFO  testCases.TC_002_LoginTest - **** Finished  TC_002_LoginTest **** 
+16:10:33.518 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT ****
+16:10:44.189 [main] INFO  testCases.TC_003_LoginDDT - **** End of test case ****
+16:10:44.190 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT ****

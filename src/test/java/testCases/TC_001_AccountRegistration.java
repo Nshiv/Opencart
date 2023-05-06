@@ -24,7 +24,7 @@ public class TC_001_AccountRegistration extends BaseClass
 		ar.setFirstName(randomString());
 		logger.info("Entering data on register screen");
 		ar.setLastName(randomString());
-		//ar.setEmail(randomString()+"@gmail.com");
+		ar.setEmail(randomString()+"@gmail.com");
 		ar.setTelephone(randomNumber());
 		String pwd = randomAlphanumeric();
 		ar.setPassword(pwd);
